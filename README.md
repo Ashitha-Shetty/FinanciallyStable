@@ -1,3 +1,6 @@
+FinanciallyStable is a modern and intuitive personal finance tracker app built with React. This app is designed to help you manage your finances effectively, track your spending, and plan your budget with ease. Whether you want to keep an eye on your expenses, set financial goals, or analyze your spending habits, FinanciallyStable provides all the tools you need to take control of your financial future.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
